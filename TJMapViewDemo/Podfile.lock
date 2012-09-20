@@ -1,0 +1,21 @@
+
+COCOAPODS: 0.14.0
+
+SPEC CHECKSUMS: 
+  TJFoundation: 8b929facbf6e30476314613b79c84bc30d53d71b
+  AFNetworking: 11ddec0dca78dc178cece46ef48ee0b65e47b293
+  TJMapView: 2e4f5a2b8a0818563aadc8a0bab0edd5989bc292
+
+DEPENDENCIES: 
+- TJMapView (from `/Users/thomas/Dropbox/TJMapView')
+
+EXTERNAL SOURCES: 
+  TJMapView: 
+    :local: /Users/thomas/Dropbox/TJMapView
+
+PODS: 
+- AFNetworking (1.0)
+- TJFoundation (0.0.1)
+- TJMapView (0.0.1): 
+  - AFNetworking (= 1.0)
+  - TJFoundation (from `/Users/thomas/Dropbox/TJFoundation/', commit `cb04993')

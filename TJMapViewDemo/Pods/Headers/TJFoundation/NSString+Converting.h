@@ -1,0 +1,1 @@
+../../TJFoundation/TJFoundation/NSString+Converting.h

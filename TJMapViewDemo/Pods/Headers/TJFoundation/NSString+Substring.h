@@ -1,0 +1,1 @@
+../../TJFoundation/TJFoundation/NSString+Substring.h

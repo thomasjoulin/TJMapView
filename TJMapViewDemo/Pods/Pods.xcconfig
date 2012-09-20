@@ -1,0 +1,7 @@
+ALWAYS_SEARCH_USER_PATHS = YES
+PODS_BUILD_HEADERS_SEARCH_PATHS = "${PODS_ROOT}/BuildHeaders" "${PODS_ROOT}/BuildHeaders/AFNetworking" "${PODS_ROOT}/BuildHeaders/TJFoundation" "${PODS_ROOT}/BuildHeaders/TJMapView"
+PODS_PUBLIC_HEADERS_SEARCH_PATHS = "${PODS_ROOT}/Headers" "${PODS_ROOT}/Headers/AFNetworking" "${PODS_ROOT}/Headers/TJFoundation" "${PODS_ROOT}/Headers/TJMapView"
+PODS_HEADERS_SEARCH_PATHS = ${PODS_PUBLIC_HEADERS_SEARCH_PATHS}
+OTHER_LDFLAGS = -ObjC -framework CoreLocation -framework MapKit -framework QuartzCore -framework SystemConfiguration
+PODS_ROOT = ${SRCROOT}/Pods
+HEADER_SEARCH_PATHS = ${PODS_HEADERS_SEARCH_PATHS}
