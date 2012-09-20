@@ -11,6 +11,8 @@ An MKMapView subclass adding some extra functionalities
     
     [mapView drawDirectionFrom:@"Place de Vosges, Paris" to:@"Carousel du Louvres, Paris"];
 
+![I](http://imgur.com/P8uuo)
+
 ## Adding TJMapView To Your Project
 
 TJFoundation uses Cocoa Pods. Add our Specs repository :
