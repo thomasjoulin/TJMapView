@@ -11,7 +11,7 @@ An MKMapView subclass adding some extra functionalities
     
     [mapView drawDirectionFrom:@"Place de Vosges, Paris" to:@"Carousel du Louvres, Paris"];
 
-![I](http://imgur.com/P8uuo)
+![I](http://i.imgur.com/P8uuo.jpg)
 
 ## Adding TJMapView To Your Project
 
